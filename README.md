@@ -51,5 +51,10 @@ The goal of this project is to:
 - Ratings cluster in a narrow band
 - Popularity ≠ Quantity
 - Blockbusters drive engagement
-  
+
+##🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Data Cleaning & Transformation (Power Query)
+- DAX (Data Analysis Expressions)
 
