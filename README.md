@@ -1,4 +1,4 @@
-# 🎬 IMDB Movies Dashboard (Power BI)
+# 🎬 IMDB Movies Dashboard
 
 A comprehensive and interactive Power BI dashboard built to analyze IMDB movie data, uncover trends, and generate actionable insights about movies, genres, ratings, and industry patterns.
 
