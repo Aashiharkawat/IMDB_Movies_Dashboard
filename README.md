@@ -21,7 +21,7 @@ The goal of this project is to:
 
 ## 📊 Dashboard pages
 
-Dashboard Overview
+## Dashboard Overview
 
 <img width="624" height="346" alt="Dashboard" src="https://github.com/user-attachments/assets/709a631f-096f-4883-bae9-54205d20a63a" />
 
@@ -32,4 +32,24 @@ Dashboard Overview
 🏆 Top 10 Movies
 
 🎛️ Interactive Filters (Slicers)
+
+## Movies
+
+<img width="623" height="335" alt="movies" src="https://github.com/user-attachments/assets/d1145297-0cc3-4f3b-820c-b79a98654981" />
+
+🎬 Movies Title by Genres
+
+💰 Total Gross of Genres
+
+📅 Total Movies by Title Year
+
+⭐ Avg Rating and Popularity Score by Voters
+
+## 💡 Key Insights 
+
+- Content volume is high, but quality is moderate
+- Ratings cluster in a narrow band
+- Popularity ≠ Quantity
+- Blockbusters drive engagement
+  
 
