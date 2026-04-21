@@ -58,6 +58,12 @@ The goal of this project is to:
 - Data Cleaning & Transformation (Power Query)
 - DAX (Data Analysis Expressions)
 
+## 📂 Project Files
+
+IMBD_Movies_Dashboard.pbix → Power BI dashboard
+
+dataset → Dataset used
+
 
   
 
