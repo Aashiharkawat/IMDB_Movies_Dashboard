@@ -52,9 +52,12 @@ The goal of this project is to:
 - Popularity ≠ Quantity
 - Blockbusters drive engagement
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Data Cleaning & Transformation (Power Query)
 - DAX (Data Analysis Expressions)
+
+
+  
 
